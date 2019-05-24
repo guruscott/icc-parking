@@ -4,7 +4,7 @@ title: ICC Parking
 sitemap:
     priority: 1.0
     changefreq: weekly
-    lastmod: 2014-09-07T16:31:30+05:30
+    lastmod: 2019-05-24T16:31:30+05:30
 ---
 <h1>ICC Parking</h1>
 <p>If you are looking to park at or near the ICC Sydney, the first place to start is the ICC centre itself. ICC Sydney operates two 24 hour car parking stations with a total of 826 parking spaces including 11 disabled parking bays, 25 motorcycle parking spaces, 50 bicycle racks and 20 electric car charge spaces.
