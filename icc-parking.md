@@ -12,7 +12,7 @@ permalink: /icc-parking/
 You'll probably be in luck so long as there are not multiple conferences on at the same time. Vehicle entry height is 2.2m.
 </p>
 <p>
-But in reality <b>ICC parking</b> is a bit of a shambles. There have been multiple reports on <a href="...">Tripadvisor</a> of a shocking experience getting in and out.
+But in reality <b>ICC parking</b> is a bit of a shambles. There have been multiple reports on <a href="https://www.tripadvisor.com.au/ShowUserReviews-g255060-d12155102-r539069228-ICC_Sydney-Sydney_New_South_Wales.html">Tripadvisor</a> of a shocking experience getting in and out.
 </p>
 <p>
 Inner sydney is generally a horror show for getting parking at the bets of times... so we'd strongly recommend getting a train, tram, bus or taxi instead of driving. If you must - here are the details for <i>ICC parking</i>.
@@ -36,7 +36,7 @@ Inner sydney is generally a horror show for getting parking at the bets of times
 <p> Car Park rates reset at 4.00am daily. $28.00</p>
 
 <p>Monthly Parking Rates:</p>
-<p>A monthly car park rate is available for Car Park 2 for $299 per month. For further information and booking please download the Car Park Monthly <a href="...">Booking Form</a> and email <a href="...">mailto:carparks@iccsydney.com</a>
+<p>A monthly car park rate is available for Car Park 2 for $299 per month. For further information and booking please download the Car Park Monthly <a href="https://www.iccsydney.com.au/ICCSydney/media/ICCSydney/files/ICC-Sydney-MonthlyParking-Bookings.pdf">Booking Form</a> and email <a href="mailto:carparks@iccsydney.com">Mail Here</a>
 
 <img src="/img/ICC Parking Map.jpg" alt="icc parking" class="responsive">
 </p>
