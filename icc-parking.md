@@ -3,7 +3,7 @@ layout: page
 title: ICC Parking
 sitemap:
     priority: 1.0
-    changefreq: weekly
+    changefreq: daily
     lastmod: 2019-05-24T16:31:30+05:30
 permalink: /icc-parking/
 ---
