@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ICC Parking
+permalink: /icc-parking
 sitemap:
     priority: 1.0
     changefreq: weekly
