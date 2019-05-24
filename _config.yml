@@ -26,10 +26,10 @@ keywords: icc parking, International Convention Centre, parking, Darling Harbour
 
 ##Some commonly used links
 links:
-  facebook: username
-  twitter: username
-  email: username@gmail.com
-  github: username
+  #facebook: username
+  twitter: ScottSunderl4nd
+  #email: username@gmail.com
+  #github: username
 
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
 about_image: placeholder.jpg
