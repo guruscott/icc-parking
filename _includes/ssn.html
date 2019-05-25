@@ -10,9 +10,9 @@
 <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
 <meta name="twitter:description" content="{{ page.excerpt | strip_html }}" />
 <meta property="og:type" content="article" />
-<link rel="canonical" href="{{ site.base_url }}{{ page.url }}" />
+
 {% else %}
-<link rel="canonical" href="{{ site.base_url }}{{ page.url | replace:'/$',''}}">
+
 <meta property="og:site_name" content="{{ site.name }}" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ site.base_url }}" />
